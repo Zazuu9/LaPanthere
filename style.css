@@ -362,6 +362,28 @@ a:hover {
     z-index: 2;
 }
 
+.Title {
+    margin-left: 15%;
+    width: 69%;
+    font-size: 24px;
+}
+
+.Title2 {
+    margin-left: 25%;
+    width: 50%;
+    font-size: 24px;
+}
+
+.Citation {
+    margin-left: 10%;
+    width: 80%;
+    font-size: 20px;
+    font-style: italic;
+}
+.Citation2 {
+    font-style: normal;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -819,11 +841,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
