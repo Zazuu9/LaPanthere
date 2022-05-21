@@ -551,6 +551,9 @@ button {
     font-size: 14px;
     opacity: 1;
 }
+.scrollToTop a {
+    color: transparent;
+}
 
 a[data-lightbox] {
     position: relative;
