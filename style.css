@@ -587,11 +587,6 @@ a[data-lightbox]:hover img {
     animation-fill-mode: none;
 }
 
-img {
-    padding-left: 25%;
-    padding-right: 25%;
-}
-
 #lightbox-modal {
     display: flex;
     align-items: center;
@@ -1073,5 +1068,9 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    img {
+        padding-left: 25%;
+        padding-right: 25%;
     }
 }
